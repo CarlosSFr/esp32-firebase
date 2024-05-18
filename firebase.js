@@ -3,7 +3,7 @@ import { getDatabase, ref, onValue } from "firebase/database"
 import "firebase/database"
 
 const firebaseConfig = {
-    apiKey: "AIzaSyANOKTL4jPjWqF7ND8NosHq_b9vkiQF-t8",
+    apiKey: "MY_API_KEY",
     authDomain: "esp32-reactnative.firebaseapp.com",
     projectId: "esp32-reactnative",
     storageBucket: "esp32-reactnative.appspot.com",
