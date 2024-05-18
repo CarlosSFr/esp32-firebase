@@ -3,12 +3,12 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
-#define DATABASE_URL "https://esp32-reactnative-default-rtdb.firebaseio.com/"
-#define API_KEY "AIzaSyANOKTL4jPjWqF7ND8NosHq_b9vkiQF-t8"
+#define DATABASE_URL "MY_PROJECT_URL"
+#define API_KEY "MY_API_KEY"
 
 // // only use 2.4ghz
-#define WIFI_SSID "CLARO_2GF9CCCB"
-#define WIFI_PASSWORD "5DF9CCCB"
+#define WIFI_SSID "MY_WIFI"
+#define WIFI_PASSWORD "MY_PASSWORD"
 
 #include "DHT.h"
 
